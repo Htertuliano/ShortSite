@@ -1,0 +1,17 @@
+body{ background-color: AntiqueWhite;
+      text-align: center; 
+}
+
+@font-face {
+	font-family 'Futura';
+	src: local('Futura BQ');
+	}
+header {font: Futura
+    }
+.about { margin: auto;
+  width: 50% }
+
+.img {
+  margin: 5%;
+
+}
