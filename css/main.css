@@ -3,10 +3,10 @@ body{ background-color: AntiqueWhite;
 }
 
 @font-face {
-	font-family 'Futura';
-	src: local('Futura BQ');
-	}
-header {font: Futura
+  font-family: Digital;
+  src: url(digital-7 (italic).ttf);
+}
+header {font: Digital
     }
 .about { margin: auto;
   width: 50% }
